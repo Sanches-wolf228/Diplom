@@ -55,7 +55,7 @@
 
 ### Testcase 2
 
-- Загрузите фотографию по ссылке
+- Загрузите фотографию по ссылке https://github.com/Sanches-wolf228/Diplom/blob/main/Collage.jpg
 
 `/load https://raw.githubusercontent.com/Sanches-wolf228/Diplom/main/Collage.jpg?token=GHSAT0AAAAAACC2MYAQRTRN7OYJ4IJPZ3HEZDLNQYA`
 
@@ -65,7 +65,7 @@
 
 ### Testcase 3
 
-- Загрузите фотографию по ссылке
+- Загрузите фотографию по ссылке https://github.com/Sanches-wolf228/Diplom/blob/main/4080HD.jpg
 
 `/load https://raw.githubusercontent.com/Sanches-wolf228/Diplom/main/4080HD.jpg?token=GHSAT0AAAAAACC2MYAR6JKDATYAPHSHY6JCZDLNT7A`
 
