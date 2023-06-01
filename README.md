@@ -57,7 +57,7 @@
 
 - Загрузите фотографию по ссылке https://github.com/Sanches-wolf228/Diplom/blob/main/Collage.jpg
 
-`/load https://raw.githubusercontent.com/Sanches-wolf228/Diplom/main/Collage.jpg?token=GHSAT0AAAAAACC2MYAQRTRN7OYJ4IJPZ3HEZDLNQYA`
+`/load https://raw.githubusercontent.com/Sanches-wolf228/Diplom/main/Collage.jpg
 
 - Найдите фотографии этих людей на гугл-диске
 
@@ -67,7 +67,7 @@
 
 - Загрузите фотографию по ссылке https://github.com/Sanches-wolf228/Diplom/blob/main/4080HD.jpg
 
-`/load https://raw.githubusercontent.com/Sanches-wolf228/Diplom/main/4080HD.jpg?token=GHSAT0AAAAAACC2MYAR6JKDATYAPHSHY6JCZDLNT7A`
+`/load https://raw.githubusercontent.com/Sanches-wolf228/Diplom/main/4080HD.jpg
 
 - На фото все люди разные, убедимся в этом, сгруппировав по лицам
 
